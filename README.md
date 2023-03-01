@@ -1,4 +1,4 @@
-# Web_Automation_with_OrangeHRM_Website_by_using_Selenium_TestNG
+# Web Automation with OrangeHRM Website by using Selenium TestNG
 
 
 
