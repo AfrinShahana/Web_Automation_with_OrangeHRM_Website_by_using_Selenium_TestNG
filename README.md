@@ -13,12 +13,16 @@
 
 
  ## Project Scenarios
- - Admin can Login to the System.
- - Admin can Create 2 Emoloyees Id.
- - Admin can Search the Employees by their Id.
- - Employee can Login with their self Credentials.
- - Employee can Update their Information.
- - Employee can Logout from the System.
+ 
+2. Create 2 new employees and save it to a JSON list
+3. Now go to PIM dashboard and search by 1st user name. Assert that the user is found.
+4. Now click on the user from the search table and update id by random userid
+5. Now again search the user by new user id from the PIM dashboard menu and assert that the user is found
+6. Now logout from admin and login with the 2nd user from your JSON list
+7. Now click on My Info menu
+8. Select Gender and Blood Type and save it
+9. Click on contact details and input address and email
+10. Logout the user
 
  ## How to run this project:
  - Clone this project
