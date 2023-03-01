@@ -29,8 +29,8 @@ https://opensource-demo.orangehrmlive.com/
 
 
  ## How to run this project:
- - Clone this project
- -  command:
+ - 1st Clone this project
+ - now give command in terminal:
   ```
  gradle clean test
  ```
