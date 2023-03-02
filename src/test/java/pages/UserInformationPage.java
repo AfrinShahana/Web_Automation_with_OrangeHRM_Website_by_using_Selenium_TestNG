@@ -65,7 +65,7 @@ public class UserInformationPage {
         Thread.sleep(1000);
         dropdownCountry.sendKeys(Keys.ENTER);
         Thread.sleep(1000);
-//        txtInput.get(7).sendKeys("+18143008329");
+        txtInput.get(7).sendKeys("");
         txtInput.get(7).sendKeys("");
         String email = "user"+Utils.generateRandomNumber(100, 999)+"@gmail.com";
         txtInput.get(9).sendKeys(email);
